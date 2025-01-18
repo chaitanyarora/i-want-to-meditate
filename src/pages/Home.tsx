@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import shriMatajiWithPublic from "../../dist/assets/shri-mataji-with-public.png"
+import shriMatajiWithPublic from "../../assets/shri-mataji-with-public.png"
 
 
 

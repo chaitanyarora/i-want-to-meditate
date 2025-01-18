@@ -1,6 +1,6 @@
 import React from 'react';
 import { Clock, Brain, Heart, Sun } from 'lucide-react';
-import shriMatajiFlower from "../../dist/assets/shri-mataji-nirmala-devi-teaching-sahaja-yoga-meditation-in-india.avif"
+import shriMatajiFlower from "../../assets/shri-mataji-nirmala-devi-teaching-sahaja-yoga-meditation-in-india.avif"
 
 const Instructions = () => {
   const steps = [
